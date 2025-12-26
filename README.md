@@ -1,0 +1,1 @@
+This project code and all of its documentation is located in the Python notebook file [MappingPoliticsUSA.ipynb](MappingPoliticsUSA.ipynb)
