@@ -8,19 +8,19 @@ Just to give you a taste of what this project is about, I was interested in mapp
 
 ## Shifting support for trump
 
-[Click here for interactive map](output\TrumpStateApprovalDifference.html)
+[Click here for interactive map](output/TrumpStateApprovalDifference.html)
 
-![output\TrumpStateApprovalDifference.png](output\TrumpStateApprovalDifference.png)
+![output/TrumpStateApprovalDifference.png](output/TrumpStateApprovalDifference.png)
 
 ## Educational attainment by state
 
-[Click here for interactive map](output\PercentageOfCollegeGraduates2024.html)
+[Click here for interactive map](output/PercentageOfCollegeGraduates2024.html)
 
-![output\PercentageOfCollegeGraduates2024.png](output\PercentageOfCollegeGraduates2024.png)
+![output/PercentageOfCollegeGraduates2024.png](output/PercentageOfCollegeGraduates2024.png)
 
 ## Federal Transfers dependency
 
-[Click here for interactive map](output\Federal_Receipts_vs_Expenditures_by_State.html)
+[Click here for interactive map](output/Federal_Receipts_vs_Expenditures_by_State.html)
 
-![output\Federal_Receipts_vs_Expenditures_by_State.png](output\Federal_Receipts_vs_Expenditures_by_State.png)
+![output/Federal_Receipts_vs_Expenditures_by_State.png](output/Federal_Receipts_vs_Expenditures_by_State.png)
 
