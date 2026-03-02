@@ -26,3 +26,8 @@ Just to give you a taste of what this project is about, I was interested in mapp
 
 ![output/Federal_Receipts_vs_Expenditures_by_State.png](output/Federal_Receipts_vs_Expenditures_by_State.png)
 
+## 3-D map of county voting for 2024 Presidential Election
+
+[Click here for interactive map](output/County_Level_Vote_Results.html)
+
+![output/County_Level_Vote_Results.png](output/County_Level_Vote_Results.png)
